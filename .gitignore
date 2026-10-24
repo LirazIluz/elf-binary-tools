@@ -1,0 +1,5 @@
+*.o
+my_loader
+myELF
+AntiVirus
+out.ro
